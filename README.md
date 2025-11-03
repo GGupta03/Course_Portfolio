@@ -5,7 +5,7 @@
 **Course Title:** Natural Language Processing  
 **Institute:** SRM Institute of Science and Technology  
 
-🌐 **Portfolio URL:** [https://lovable.dev/projects/8c1616c2-ad3d-4e5f-98ef-b0389f1a045b](https://lovable.dev/projects/8c1616c2-ad3d-4e5f-98ef-b0389f1a045b)
+🌐 **Portfolio URL:** [[https://lovable.dev/projects/8c1616c2-ad3d-4e5f-98ef-b0389f1a045b](https://lovable.dev/projects/8c1616c2-ad3d-4e5f-98ef-b0389f1a045b)](https://nlp-journey-folio.lovable.app/)
 
 ---
 
