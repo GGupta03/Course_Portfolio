@@ -113,12 +113,5 @@ This portfolio reflects my technical growth, learning mindset, and project-based
 
 ---
 
-## 🔗 Live Portfolio
-
-Visit the live course portfolio here:  
-👉 **[https://lovable.dev/projects/8c1616c2-ad3d-4e5f-98ef-b0389f1a045b](https://lovable.dev/projects/8c1616c2-ad3d-4e5f-98ef-b0389f1a045b)**
-
----
-
 ### © 2025 Gaurav Gupta  
 *Designed with ❤️ to reflect learning, creativity, and passion for technology.*
